@@ -1,0 +1,48 @@
+stationid,stationname,platforms
+940GZZLUALD,Aldgate,Circle|Eastbound - Platform 1/Circle|Northbound - Platform 3/Circle|Northbound - Platform 2/Circle|Eastbound - Platform 1/Circle|Westbound - Platform 4/Metropolitan|Northbound - Platform 3/Metropolitan|Northbound - Platform 2
+940GZZLUADE,Aldgate East,District|Eastbound - Platform 2/District|Westbound - Platform 1/Hammersmith & City|Eastbound - Platform 2/Hammersmith & City|Westbound - Platform 1
+940GZZLUAGL,Angel,Northern|Northbound - Platform 2/Northern|Southbound - Platform 1
+940GZZLUBST,Baker Street,Bakerloo|Northbound - Platform 9/Bakerloo|Southbound - Platform 8/Circle|Eastbound - Platform 5/Hammersmith & City|Westbound - Platform 6/Hammersmith & City|Eastbound - Platform 5/Jubilee|Northbound - Platform 10/Jubilee|Southbound - Platform 7/Metropolitan|Southbound - Platform 3/Metropolitan|Northbound - Platform 2/Metropolitan|Northbound - Platform 1/Metropolitan|Northbound - Platform 4/Metropolitan|Westbound - Platform 6
+940GZZLUBNK,Bank,Central|Eastbound - Platform 6/Central|Westbound Platform 5/Northern|Northbound - Platform 4/Northern|Southbound - Platform 3/Waterloo & City|Eastbound - Platform 8/Waterloo & City|Westbound - Platform 7
+940GZZLUBBN,Barbican,Metropolitan|Eastbound - Platform 1/Metropolitan|Westbound Platform 2/Circle|Eastbound Platform 1/Hammersmith & City|Eastbound - Platform 1/Hammersmith & City|Westbound - Platform 2
+940GZZBPSUST,Battersea Power Station,Northern|Northbound - Platform 1/Northern|Northbound - Platform 2
+940GZZLUBKF,Blackfriars,Circle|Eastbound - Platform 2/Circle|Westbound - Platform 1/District|Eastbound - Platform 2/District|Westbound - Platform 1
+940GZZLUBND,Bond Street,Central|Eastbound - Platform 2/Central|Westbound - Platform 1/Jubilee|Northbound - Platform 3/Jubilee|Southbound - Platform 4
+940GZZLUBOR,Borough,Northern|Northbound - Platform 1/Northern|Southbound - Platform 2
+940GZZLUCST,Cannon Street,Circle|Eastbound - Platform 2/Circle|Westbound - Platform 1/District|Eastbound - Platform 2/District|Westbound Platform 1
+940GZZLUCHL,Chancery Lane,Central|Eastbound - Platform 2/Central|Westbound - Platform 1
+940GZZLUCHX,Charing Cross,Bakerloo|Northbound - Platform 1/Bakerloo|Southbound - Platform 2/Northern|Northbound - Platform 5/Northern|Southbound - Platform 6
+940GZZLUCGN,Covent Garden,Piccadilly|Eastbound - Platform 2/Piccadilly|Westbound - Platform 1
+940GZZLUECT,Earl's Court,District|Eastbound - Platform 1/District|Eastbound - Platform 2/District|Westbound - Platform 3/District|Westbound - Platform 4/Piccadilly|Eastbound - Platform 5/Piccadilly|Westbound - Platform 6
+940GZZLUERB,Edgware Road (Bakerloo),Bakerloo|Northbound - Platform 1/Bakerloo|Southbound - Platform 2
+940GZZLUERC,Edgware Road (Circle),Circle|Eastbound - Platform 1/Hammersmith & City|Eastbound - Platform 1/Hammersmith & City|Platform 3/Hammersmith & City|Westbound - Platform 4/District|Platform 2
+940GZZLUEAC,Elephant and Castle,Bakerloo|Northbound - Platform 3/Bakerloo|Southbound - Platform 4/Northern|Northbound - Platform 1/Northern|Southbound - Platform 2
+940GZZLUEMB,Embankment,Bakerloo|Northbound - Platform 5/Bakerloo|Southbound - Platform 6/Circle|Eastbound - Platform 2/Circle|Westbound - Platform 1/District|Eastbound - Platform 2/District|Westbound - Platform 1/Northern|Northbound - Platform 3/Northern|Southbound - Platform 4
+940GZZLUEUS,Euston,Northern|Northbound - Platform 1/Northern|Northbound - Platform 3/Northern|Southbound - Platform 2/Northern|Southbound - Platform 6/Victoria|Northbound - Platform 4/Victoria|Southbound - Platform 5
+940GZZLUESQ,Euston Square,Circle|Eastbound - Platform 2/Hammersmith & City|Eastbound - Platform 2/Hammersmith & City|Westbound - Platform 1/Metropolitan|Eastbound - Platform 2/Metropolitan|Westbound - Platform 1
+940GZZLUFCN,Farringdon,Circle|Eastbound - Platform 1/Hammersmith & City|Eastbound - Platform 1/Hammersmith & City|Westbound - Platform 2/Metropolitan|Eastbound - Platform 1/Metropolitan|Westbound - Platform 2
+940GZZLUGTR,Gloucester Road,Circle|Eastbound - Platform 3/Circle|Westbound - Platform 2/District|Eastbound - Platform 3/District|Westbound - Platform 1/Piccadilly|Eastbound - Platform 5/Piccadilly|Westbound - Platform 4
+940GZZLUGDG,Goodge Street,Northern|Northbound - Platform 1/Northern|Southbound - Platform 2
+940GZZLUGPS,Great Portland Street,Circle|Eastbound - Platform 2/Circle|Westbound - Platform 1/Hammersmith & City|Eastbound - Platform 2/Hammersmith & City|Westbound - Platform 1/Metropolitan|Eastbound - Platform 2/Metropolitan|Westbound - Platform 1
+940GZZLUGPK,Green Park,Jubilee|Northbound - Platform 5/Jubilee|Southbound - Platform 6/Piccadilly|Eastbound - Platform 2/Piccadilly|Westbound - Platform 1/Victoria|Northbound - Platform 3/Victoria|Southbound - Platform 4
+940GZZLUHSK,High Street Kensington,Circle|Eastbound - Platform 2/Circle|Westbound - Platform 1/District|Eastbound - Platform 2/District|Westbound - Platform 1
+940GZZLUHBN,Holborn,Central|Eastbound - Platform 2/Central|Westbound - Platform 1/Piccadilly|Eastbound - Platform 4/Piccadilly|Westbound - Platform 3
+940GZZLUHPC,Hyde Park Corner,Piccadilly|Eastbound - Platform 1/Piccadilly|Westbound - Platform 2
+940GZZLUKNG,Kennington,Northern|Northbound - Platform 1/Northern|Northbound - Platform 3/Northern|Southbound - Platform 2/Northern|Southbound - Platform 4
+940GZZLUKSX,King's Cross St. Pancras,Metropolitan|Westbound - Platform 1/Metropolitan|Eastbound - Platform 2/Northern|Northbound - Platform 7/Northern|Southbound - Platform 8/Piccadilly|Eastbound - Platform 6/Piccadilly|Westbound - Platform 5/Circle|Eastbound - Platform 2/Victoria|Northbound - Platform 3/Victoria|Southbound - Platform 4/Hammersmith & City|Westbound - Platform 1
+940GZZLUKNB,Knightsbridge,Piccadilly|Eastbound - Platform 1/Piccadilly|Westbound - Platform 2
+940GZZLULBN,Lambeth North,Bakerloo|Northbound - Platform 1/Bakerloo|Southbound - Platform 2
+940GZZLULGT,Lancaster Gate,Central|Eastbound - Platform 2/Central|Westbound - Platform 1
+940GZZLULSQ,Leicester Square,Northern|Northbound - Platform 1/Northern|Southbound - Platform 3/Piccadilly|Eastbound - Platform 2/Piccadilly|Westbound - Platform 1
+940GZZLULVT,Liverpool Street,Central|Eastbound - Platform 4/Central|Westbound - Platform 5/Circle|Eastbound - Platform 1/Hammersmith & City|Eastbound - Platform 1/Hammersmith & City|Westbound - Platform 2/Metropolitan|Eastbound - Platform 1/Metropolitan|Westbound - Platform 2
+940GZZLULNB,London Bridge,Jubilee|Eastbound - Platform 4/Jubilee|Westbound - Platform 3/Northern|Northbound - Platform 1/Northern|Southbound - Platform 2
+940GZZLUMSH,Mansion House,Circle|Eastbound - Platform 3/Circle|Westbound - Platform 1/District|Eastbound - Platform 3/District|Westbound - Platform 1
+940GZZLUMBA,Marble Arch,Central|Eastbound - Platform 2/Central|Westbound - Platform 1
+940GZZLUMYB,Marylebone,Bakerloo|Northbound - Platform 1/Bakerloo|Southbound - Platform 2
+940GZZLUMMT,Monument,Circle|Eastbound - Platform 2/Circle|Westbound - Platform 1/District|Eastbound - Platform 2/District|Westbound - Platform 1
+940GZZLUMGT,Moorgate,Circle|Eastbound - Platform 1/Hammersmith & City|Eastbound - Platform 1/Hammersmith & City|Westbound - Platform 2/Metropolitan|Eastbound - Platform 1/Metropolitan|Westbound - Platform 2/Northern|Northbound - Platform 7/Northern|Southbound - Platform 8
+940GZZNEUGST,Nine Elms,Northern|Northbound - Platform 1/Northern|Southbound - Platform 2
+940GZZLUNHG,Notting Hill Gate,Central|Eastbound - Platform 3/Central|Westbound - Platform 4
+940GZZLUODS,Old street,Northern|Northbound - Platform 1/Northern|Southbound - Platform 2
+940GZZLUOXC,Oxford Circus,Bakerloo|Northbound - Platform 4/Bakerloo|Southbound - Platform 3/Central|Eastbound - Platform 2/Central|Westbound - Platform 1/Victoria|Northbound - Platform 6/Victoria|Southbound - Platform 5
+940GZZLUPCC,Piccadilly Circus,Bakerloo|Northbound - Platform 1/Bakerloo|Southbound - Platform 2/Piccadilly|Eastbound - Platform 3/Piccadilly|Westbound - Platform 4
